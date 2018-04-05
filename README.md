@@ -1,1 +1,2 @@
-arduino-adafruit-dht-1.14
+# Arduino Adafruit DHT library for Mongoose OS
+
